@@ -23,12 +23,3 @@ To run this project, install locally and launch from the command line.
 ### Features
 
 * Randomly generate your character's alignment, race, and class
-
-### To Do
-
-* Set up Dev Environment
-* Build Random Number Generator
-* Set up alignment array
-* Set up character race array
-* Set up character class array
-* Build output message
